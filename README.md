@@ -2,4 +2,4 @@
 
 <p>O jogo da cobrinha é um projeto simples que possui apenas um componente e utiliza dos hooks de estado, effect e interval do React para criar a logica do game</p>
 
-<h4>Link do deploy: https://kind-hill-0cdbac610.2.azurestaticapps.net</h4>
+<h4>Link do deploy: https://snake-game-six-umber.vercel.app/</h4>
